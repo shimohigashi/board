@@ -1,0 +1,6 @@
+{
+    "editor.fontLigatures": false
+    "emmet.includeLanguages": {
+        "html.erb": "html"
+    }
+}
